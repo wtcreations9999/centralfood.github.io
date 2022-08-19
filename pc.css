@@ -1,0 +1,57 @@
+
+
+
+.hlinks li{list-style: none; font-size: 1.5rem; display: block; background-color:transparent; color: #a6f8f8; margin: 10px; border-radius: 10px;  text-align:  center; display: inline; float: right;}
+.hlinks li:hover{background-color: transparent; }
+.hlinks li a{text-decoration: none; color: #a6f8f8;}
+.hlinks li a:hover{color: #2b37e6;}
+.mbg{background-image: url(restaurent.jpg); background-attachment: fixed; background-position: center; background-size: cover; background-repeat: no-repeat;}
+.logo1{font-size: 4rem; border: blue solid 3px; color: lightcyan; border-radius: 50%; text-align: center; padding:10px; background-color: darkblue;  } 
+
+
+
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-2-5{width: 20%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+    
+    
+    
+    
+    .header::after{content: (); 
+        display: table;
+        clear: both; }
+
+        .mbg{text-align: center; padding:30% 20%; padding-bottom: 0; }
+        h1{background-color: #eff781; color: #290029fb; font-size: 4rem; font-family:  cursive; margin: 30px; }
+p{background-color: #51ff00;  color: #000039; font-size: 2.5rem; margin: 30px;}
+button{background-color: #000039; color: cyan;margin: 30px; font-size: 5rem; 
+     animation-name: anim; animation-duration: 10s; animation-delay: 0s; animation-iteration-count: infinite;
+    }
+    button:hover{font-size:8rem ;}
+    h2{ background-color: #640021; color: #4af9ff; font-size: 5rem; text-align: center; margin: 10px;  }
+    .abtus p{background-color: #5efa80; font-size: 1.8rem; }
+    .card{margin: 10px; transition: width 3s, height 3s;  height:430px;} 
+    .card:hover{width:30%; height: 50%;}
+    .rcps{margin: 0;}
+    .rcps::after{content: (); 
+        display: table;
+       clear: both;}
+
+
+       .flinks a{ color: #8fffff; font-size: 2rem; text-decoration: none; display: inline; text-align: center; border-radius: 50px;} 
+       .flinks a:hover{color: #5efa80; border: #0000d1 2px solid; margin: 10px; padding: 10px;}
+       h5{color: #5efa80; font-size: 2rem; }
+       h5 a{color: #008080; text-decoration: none;}
+       h5 a:hover{ color: white;}
+  
+    
